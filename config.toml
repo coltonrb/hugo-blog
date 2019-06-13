@@ -1,0 +1,4 @@
+baseURL = "https://hugo.coltonrb.com/"
+languageCode = "en-us"
+title = "Axiomatic Caribou"
+theme = "ananke"
